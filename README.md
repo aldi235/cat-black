@@ -18,9 +18,6 @@ Lorem Ipsum adalah contoh teks atau dummy dalam industri ...
 Lorem ipsum dolor
 Lorem ipsum dolor sit amet, consectetur adipiscing elit ...
 Lorem Ipsum - All the facts
-Lorem Ipsum. "Neque porro quisquam est qui dolorem ...
-Telusuran lainnya dari lipsum.com »
-Lorem Ipsum – Generator, Origins, and Meaning
 
 Lorem Ipsum – Generator, Origins, and Meaning
 https://loremipsum.io
