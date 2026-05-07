@@ -4,8 +4,7 @@ lorem ipsum
 #test-blyatEarn exclusive reward
 Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator.
 
-Lorem Ipsum
-https://www.lipsum.com
+
 ·
 Terjemahkan halaman ini
 Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator.
