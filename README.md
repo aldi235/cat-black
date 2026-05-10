@@ -13,7 +13,6 @@ Reference site about Lorem Ipsum, giving information on its origins ...
 עברית
 
 Lorem ipsum dolor
-Lorem ipsum dolor sit amet, consectetur adipiscing elit ...
 Lorem Ipsum - All the facts
 
 Lorem Ipsum – Generator, Origins, and Meaning
